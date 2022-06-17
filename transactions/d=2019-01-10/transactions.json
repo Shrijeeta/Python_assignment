@@ -1,0 +1,22 @@
+{"customer_id": "C3", "basket": [{"product_id": "P22", "price": 1689}, {"product_id": "P22", "price": 1281}], "date_of_purchase": "2019-01-10 21:35:00"}
+{"customer_id": "C10", "basket": [{"product_id": "P07", "price": 1470}, {"product_id": "P01", "price": 1079}], "date_of_purchase": "2019-01-10 14:11:00"}
+{"customer_id": "C12", "basket": [{"product_id": "P01", "price": 1203}], "date_of_purchase": "2019-01-10 05:07:00"}
+{"customer_id": "C13", "basket": [{"product_id": "P35", "price": 886}, {"product_id": "P40", "price": 209}, {"product_id": "P37", "price": 909}], "date_of_purchase": "2019-01-10 07:33:00"}
+{"customer_id": "C15", "basket": [{"product_id": "P56", "price": 736}, {"product_id": "P52", "price": 463}], "date_of_purchase": "2019-01-10 19:55:00"}
+{"customer_id": "C17", "basket": [{"product_id": "P50", "price": 801}, {"product_id": "P48", "price": 1536}], "date_of_purchase": "2019-01-10 22:37:00"}
+{"customer_id": "C31", "basket": [{"product_id": "P28", "price": 1587}, {"product_id": "P25", "price": 877}], "date_of_purchase": "2019-01-10 19:36:00"}
+{"customer_id": "C32", "basket": [{"product_id": "P39", "price": 1696}, {"product_id": "P35", "price": 636}], "date_of_purchase": "2019-01-10 16:10:00"}
+{"customer_id": "C37", "basket": [{"product_id": "P04", "price": 746}], "date_of_purchase": "2019-01-10 07:04:00"}
+{"customer_id": "C49", "basket": [{"product_id": "P24", "price": 497}, {"product_id": "P24", "price": 1249}], "date_of_purchase": "2019-01-10 08:38:00"}
+{"customer_id": "C51", "basket": [{"product_id": "P03", "price": 597}], "date_of_purchase": "2019-01-10 17:11:00"}
+{"customer_id": "C63", "basket": [{"product_id": "P27", "price": 1796}], "date_of_purchase": "2019-01-10 04:50:00"}
+{"customer_id": "C73", "basket": [{"product_id": "P34", "price": 817}, {"product_id": "P29", "price": 1727}, {"product_id": "P23", "price": 357}], "date_of_purchase": "2019-01-10 10:08:00"}
+{"customer_id": "C77", "basket": [{"product_id": "P51", "price": 655}, {"product_id": "P58", "price": 851}], "date_of_purchase": "2019-01-10 10:24:00"}
+{"customer_id": "C80", "basket": [{"product_id": "P55", "price": 534}, {"product_id": "P43", "price": 1225}], "date_of_purchase": "2019-01-10 03:05:00"}
+{"customer_id": "C82", "basket": [{"product_id": "P01", "price": 681}, {"product_id": "P01", "price": 1198}], "date_of_purchase": "2019-01-10 11:30:00"}
+{"customer_id": "C93", "basket": [{"product_id": "P64", "price": 1187}, {"product_id": "P62", "price": 1787}, {"product_id": "P61", "price": 408}], "date_of_purchase": "2019-01-10 14:26:00"}
+{"customer_id": "C99", "basket": [{"product_id": "P05", "price": 1570}, {"product_id": "P09", "price": 502}], "date_of_purchase": "2019-01-10 12:53:00"}
+{"customer_id": "C102", "basket": [{"product_id": "P55", "price": 1065}, {"product_id": "P52", "price": 372}, {"product_id": "P60", "price": 858}], "date_of_purchase": "2019-01-10 11:34:00"}
+{"customer_id": "C112", "basket": [{"product_id": "P56", "price": 1473}, {"product_id": "P45", "price": 1266}, {"product_id": "P58", "price": 551}], "date_of_purchase": "2019-01-10 21:46:00"}
+{"customer_id": "C125", "basket": [{"product_id": "P60", "price": 1789}, {"product_id": "P57", "price": 421}, {"product_id": "P44", "price": 331}], "date_of_purchase": "2019-01-10 04:53:00"}
+{"customer_id": "C129", "basket": [{"product_id": "P03", "price": 587}], "date_of_purchase": "2019-01-10 22:44:00"}
